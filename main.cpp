@@ -115,13 +115,13 @@ chicken.cluck();
 chicken.peck();
 
 //  8)
-//  Noun:       knife
-//  action 1:   cut
-knife.cut();
-//  action 2:   slice
-knife.slice();
-//  action 3:   spread
-knife.spread();
+//  Noun:       air conditioner
+//  action 1:   check tempreture
+airConditioner.checkTempreture();
+//  action 2:   turn on cold air
+airConditioner.turnOnColdAir();
+//  action 3:   turn on hot air
+airConditioner.turnOnHotAir();
 
 //  9)
 //  Noun:       water
