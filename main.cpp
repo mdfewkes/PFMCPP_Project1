@@ -52,85 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun:       puppy
+//  action 1:   chew
+puppy.chew();
+//  action 2:   bark
+puppy.bark();
+//  action 3:   sleep
+puppy.sleep()
 
-//  action 2:
-
-//  action 3:
- 
 //  2)
-//  Noun:
-//  action 1:
+//  Noun:       cell phone
+//  action 1:   call
+cellPhone.call();
+//  action 2:   text
+cellPhone.text();
+//  action 3:   vibrate
+cellPhone.vibrate();
 
-//  action 2:
-
-//  action 3:
- 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun:       bumble bee
+//  action 1:   fly
+bumbleBee.fly();
+//  action 2:  collect pollen 
+bumbleBee.collectPollen();
+//  action 3:   sting
+bumbleBee.sting();
 
-//  action 2:
-
-//  action 3:
- 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun:       mouse
+//  action 1:   scroll
+mouse.scroll();
+//  action 2:   drag
+mouse.drag();
+//  action 3:   click
+mouse.click();
 
-//  action 2:
-
-//  action 3:
- 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun:       bluetooth speaker
+//  action 1:   connect
+bluetoothSpeaker.connect();
+//  action 2:   play
+bluetoothSpeaker.play();
+//  action 3:   stop
+bluetoothSpeaker.stop();
 
-//  action 2:
-
-//  action 3:
- 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun:       car
+//  action 1:   drive
+car.drive();
+//  action 2:   stear
+car.stear();
+//  action 3:   break
+car.break();
 
-//  action 2:
-
-//  action 3:
- 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun:      chicken 
+//  action 1:   lay egg
+chicken.layEgg();
+//  action 2:   cluck
+chicken.cluck();
+//  action 3:   peck
+chicken.peck();
 
-//  action 2:
-
-//  action 3:
- 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun:       knife
+//  action 1:   cut
+knife.cut();
+//  action 2:   slice
+knife.slice();
+//  action 3:   spread
+knife.spread();
 
-//  action 2:
-
-//  action 3:
- 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun:       water
+//  action 1:   boil
+water.boil();
+//  action 2:   freeze
+water.freeze();
+//  action 3:   evaporate
+water.evaporate();
 
-//  action 2:
-
-//  action 3:
- 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:       camera
+//  action 1:   snap photo
+camera.snapPhoto();
+//  action 2:   zoom
+camera.zoom();
+//  action 3:   calculate white balance
+camera.calculateWhiteBalance();
 
 
 #endif
